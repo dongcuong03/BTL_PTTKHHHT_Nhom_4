@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BCADAA37-9935-40E4-A558-E0C1EB75C9B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Dự_án_QLSV_KTX</RootNamespace>
+    <AssemblyName>Dự án QLSV KTX</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.OLE.Interop, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Huy_DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Huy_DangKy.designer.cs">
+      <DependentUpon>Huy_DangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Huy_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Huy_DangNhap.designer.cs">
+      <DependentUpon>Huy_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Huy_QL_KTX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Huy_QL_KTX.designer.cs">
+      <DependentUpon>Huy_QL_KTX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Huy_QT_HeThong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Huy_QT_HeThong.designer.cs">
+      <DependentUpon>Huy_QT_HeThong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Huy_QL_SinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Huy_QL_SinhVien.designer.cs">
+      <DependentUpon>Huy_QL_SinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ha1_qlsv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ha1_qlsv.designer.cs">
+      <DependentUpon>Ha1_qlsv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuong Qly_Phong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuong Qly_Phong.designer.cs">
+      <DependentUpon>Cuong Qly_Phong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan_CSVC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan_CSVC.designer.cs">
+      <DependentUpon>Quan_CSVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan_DSSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan_DSSV.designer.cs">
+      <DependentUpon>Quan_DSSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan_DSPhongtrong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan_DSPhongtrong.designer.cs">
+      <DependentUpon>Quan_DSPhongtrong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan_QLTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan_QLTK.designer.cs">
+      <DependentUpon>Quan_QLTK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thai_Capnhatthongtin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thai_Capnhatthongtin.designer.cs">
+      <DependentUpon>Thai_Capnhatthongtin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thai_DSSVphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thai_DSSVphong.designer.cs">
+      <DependentUpon>Thai_DSSVphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thai_Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thai_Form1.designer.cs">
+      <DependentUpon>Thai_Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Thai_Thongtinshp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thai_Thongtinshp.designer.cs">
+      <DependentUpon>Thai_Thongtinshp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan_TKSHP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan_TKSHP.designer.cs">
+      <DependentUpon>Quan_TKSHP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan_TK_BC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan_TK_BC.designer.cs">
+      <DependentUpon>Quan_TK_BC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuong_Thong_Tin_Phong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuong_Thong_Tin_Phong.designer.cs">
+      <DependentUpon>Cuong_Thong_Tin_Phong.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Huy_DangKy.resx">
+      <DependentUpon>Huy_DangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Huy_DangNhap.resx">
+      <DependentUpon>Huy_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Huy_QL_KTX.resx">
+      <DependentUpon>Huy_QL_KTX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Huy_QT_HeThong.resx">
+      <DependentUpon>Huy_QT_HeThong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Huy_QL_SinhVien.resx">
+      <DependentUpon>Huy_QL_SinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ha1_qlsv.resx">
+      <DependentUpon>Ha1_qlsv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuong Qly_Phong.resx">
+      <DependentUpon>Cuong Qly_Phong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan_CSVC.resx">
+      <DependentUpon>Quan_CSVC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan_DSSV.resx">
+      <DependentUpon>Quan_DSSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan_DSPhongtrong.resx">
+      <DependentUpon>Quan_DSPhongtrong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan_QLTK.resx">
+      <DependentUpon>Quan_QLTK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thai_Capnhatthongtin.resx">
+      <DependentUpon>Thai_Capnhatthongtin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thai_DSSVphong.resx">
+      <DependentUpon>Thai_DSSVphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thai_Form1.resx">
+      <DependentUpon>Thai_Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Thai_Thongtinshp.resx">
+      <DependentUpon>Thai_Thongtinshp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan_TKSHP.resx">
+      <DependentUpon>Quan_TKSHP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan_TK_BC.resx">
+      <DependentUpon>Quan_TK_BC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuong_Thong_Tin_Phong.resx">
+      <DependentUpon>Cuong_Thong_Tin_Phong.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-josh-sorenson-1714205.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,33 @@
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\bin\Debug\Dự án QLSV KTX.exe.config
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\bin\Debug\Dự án QLSV KTX.exe
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\bin\Debug\Dự án QLSV KTX.pdb
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự án QLSV KTX.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự án QLSV KTX.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.frmDangKy.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.frmDangNhap.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.frmQL_KTX.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.frmQT_HeThong.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.frmQL_SinhVien.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Quan_CSVC.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Quan_DSSV.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Quan_DSPhongtrong.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Quan_QLTK.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Sinhhoatphi.Thai_Capnhatthongtin.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Thai_DSSVphong.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Thai_Form1.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Quan_TKSHP.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Quan_TK_BC.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự án QLSV KTX.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự án QLSV KTX.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự án QLSV KTX.exe
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự án QLSV KTX.pdb
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Thai_Thongtinshp.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Ha1_qlsv.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Qly_Phong.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự_án_QLSV_KTX.Cuong_Thong_Tin_Phong.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự án QLSV KTX.csproj.ResolveComReference.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\ADMIN\OneDrive\Tài liệu\Học kì 4\Lập trình Windows\Code C#\Dự án QLSV KTX\Dự án QLSV KTX\obj\Debug\Dự án QLSV KTX.csproj.CopyComplete
